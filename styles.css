@@ -1,0 +1,25 @@
+h1{
+    font-family: "Helvetica ",;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+input{
+    height: 25px;
+    width:50%;
+    border-radius:5px;
+    
+}
+
+.para{
+    font-family: 'Audiowide';
+    font-size: 22px;
+}
+
+button{
+    height: 25px;
+    width:40px;
+    border-radius:5px;
+    padding:5px;
+}
